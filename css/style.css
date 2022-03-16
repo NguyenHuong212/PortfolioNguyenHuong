@@ -303,7 +303,7 @@ body {
 }
 
 #skills .skills-element .skills-right-js::before {
-  width: 60%;
+  width: 50%;
 }
 
 #skills .skills-element .skills-right-php {
@@ -324,7 +324,7 @@ body {
 }
 
 #skills .skills-element .skills-right-php::before {
-  width: 80%;
+  width: 20%;
 }
 
 #skills .skills-element .skills-right-mysql {

@@ -237,13 +237,13 @@ body {
     .skills-right-js{
         @include skill-line();
         &::before{
-            width: 60%;
+            width: 50%;
         }
     }
     .skills-right-php{
         @include skill-line();
         &::before{
-            width: 80%;
+            width: 20%;
         }
     }
     .skills-right-mysql{
@@ -270,7 +270,6 @@ body {
       }
     }
     
-
   }
 }
 #works {
